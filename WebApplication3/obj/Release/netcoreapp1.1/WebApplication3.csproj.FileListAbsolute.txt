@@ -1,0 +1,17 @@
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\WebApplication3.deps.json
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\WebApplication3.runtimeconfig.json
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\WebApplication3.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\WebApplication3.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Entities.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Repository.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Services.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Shared.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Entities.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Repository.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Services.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Release\netcoreapp1.1\Shared.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Release\netcoreapp1.1\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Release\netcoreapp1.1\WebApplication3.AssemblyInfo.cs
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Release\netcoreapp1.1\WebApplication3.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Release\netcoreapp1.1\WebApplication3.pdb

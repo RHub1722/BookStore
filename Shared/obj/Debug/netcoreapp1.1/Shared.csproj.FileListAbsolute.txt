@@ -1,0 +1,9 @@
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\bin\Debug\netcoreapp1.1\Shared.deps.json
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\bin\Debug\netcoreapp1.1\Shared.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\bin\Debug\netcoreapp1.1\Shared.pdb
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\bin\Debug\netcoreapp1.1\Entities.pdb
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\obj\Debug\netcoreapp1.1\Shared.csprojResolveAssemblyReference.cache
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\obj\Debug\netcoreapp1.1\Shared.AssemblyInfo.cs
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\obj\Debug\netcoreapp1.1\Shared.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Shared\obj\Debug\netcoreapp1.1\Shared.pdb

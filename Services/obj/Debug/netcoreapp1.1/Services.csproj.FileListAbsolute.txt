@@ -1,0 +1,13 @@
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Services.deps.json
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Services.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Services.pdb
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Repository.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Shared.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Repository.pdb
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Shared.pdb
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\bin\Debug\netcoreapp1.1\Entities.pdb
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\obj\Debug\netcoreapp1.1\Services.csprojResolveAssemblyReference.cache
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\obj\Debug\netcoreapp1.1\Services.AssemblyInfo.cs
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\obj\Debug\netcoreapp1.1\Services.dll
+C:\Users\ramam_000\Documents\Visual Studio 2017\Projects\WebApplication3\Services\obj\Debug\netcoreapp1.1\Services.pdb

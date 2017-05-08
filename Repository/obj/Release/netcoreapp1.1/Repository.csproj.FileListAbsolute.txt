@@ -1,0 +1,9 @@
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\bin\Release\netcoreapp1.1\Repository.deps.json
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\bin\Release\netcoreapp1.1\Repository.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\bin\Release\netcoreapp1.1\Repository.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\bin\Release\netcoreapp1.1\Entities.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\bin\Release\netcoreapp1.1\Entities.pdb
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\obj\Release\netcoreapp1.1\Repository.csprojResolveAssemblyReference.cache
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\obj\Release\netcoreapp1.1\Repository.AssemblyInfo.cs
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\obj\Release\netcoreapp1.1\Repository.dll
+C:\Users\ramam_000\documents\visual studio 2017\Projects\WebApplication3\Repository\obj\Release\netcoreapp1.1\Repository.pdb

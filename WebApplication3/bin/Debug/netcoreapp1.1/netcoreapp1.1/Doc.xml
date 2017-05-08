@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStore</name>
+    </assembly>
+    <members>
+        <member name="M:BookStore.Controllers.BooksController.GetByID(System.Int32)">
+            <summary>
+            GetBook
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.GetAllBooks">
+            <summary>
+            GetAllBooks
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Create(Shared.DTOS.BookDto)">
+            <summary>
+            Create
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Update(System.Int32,Shared.DTOS.BookDto)">
+            <summary>
+            Update
+            </summary>
+            <param name="id"></param>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Delete(System.Int32)">
+            <summary>
+            Delete
+            </summary>
+            <param name="id"></param>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.CategoriesController.GetByID(System.Int32)">
+            <summary>
+            GetBook
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.CategoriesController.GetAll">
+            <summary>
+            All Categories
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.CategoriesController.Create(Shared.DTOS.CategoryDto)">
+            <summary>
+            Create
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.CategoriesController.Update(System.Int32,Shared.DTOS.CategoryDto)">
+            <summary>
+            Update
+            </summary>
+            <param name="id"></param>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.CategoriesController.Delete(System.Int32)">
+            <summary>
+            Delete
+            </summary>
+            <param name="id"></param>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.OrdersController.CreateOrder(System.Int32,System.Int32)">
+            <summary>
+            CreateOrder
+            </summary>
+            <param name="userId"></param>
+            <param name="bookId"></param>
+            <param name="qty"></param>
+        </member>
+        <member name="M:BookStore.Controllers.OrdersController.DeleteOrder(System.Int32)">
+            <summary>
+            DeleteOrder
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.OrdersController.GetAllOrders">
+            <summary>
+            GetAllOrders
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.OrdersController.GetOrders">
+            <summary>
+            GetOrders
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.Controllers.OrdersController.UpdateOrder(System.Int32,Shared.DTOS.OrderDto)">
+            <summary>
+            UpdateOrder
+            </summary>
+            <param name="orderId"></param>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

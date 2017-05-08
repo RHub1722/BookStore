@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ramam_000\\.nuget\\packages",
+      "C:\\Users\\ramam_000\\.dotnet\\NuGetFallbackFolder"
+    ]
+  }
+}
